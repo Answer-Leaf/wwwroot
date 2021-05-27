@@ -1,4 +1,5 @@
 <?php
+    echo "111";
 	$str="abcdefg zsdfg";
 	$str1="abcdefg zsdfg";
 	$new_str=substr($str,3);//截取一个字符串，（从某个下标开始，截取多少长度）
